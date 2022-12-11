@@ -226,7 +226,8 @@ include 'classes/users.php';
         <h4
             style="background-color: #358cce;color: #ffffff;">Other info</h4>
             <div class="form-group">
-                <h6>Subject</h6><select required="" class="form-control" name="subjects">
+                <h6>Course</h6>
+                <select  class="form-control" name="subjects">
 
 
                     <optgroup label="Choose a subject for a teacher">
