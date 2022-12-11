@@ -174,10 +174,10 @@ include 'inc/admin_sidebar.php';
             <div class="form-group"><input class="form-control" type="text" name="nrc_number" placeholder="NRC number"></div>
             
             <div class="form-group" style="background-color: #e7e7e7;">
-                <h6>Gnder</h6><select class="form-control" name="gender"><optgroup label="Choose teacher gender"><option selected="">Male</option><option >Female</option></optgroup></select></div>
+                <h6>Gnder</h6><select class="form-control" name="gender"><optgroup label="Choose accountant gender"><option selected="">Male</option><option >Female</option></optgroup></select></div>
            
             <div class="form-group" style="background-color: #e7e7e7;">
-                <h6>teacher profile picture</h6><input type="file" name="profile_pic"></div>
+                <h6>Profile picture</h6><input type="file" name="profile_pic"></div>
             <div class="form-group">
                 <h4 style="background-color: #358cce;color: #ffffff;">Contact info</h4><input class="form-control" type="email" name="email" placeholder="Email address"></div>
             <div class="form-group"><input class="form-control" type="text" name="mobile_number" placeholder="Mobile number"></div>
