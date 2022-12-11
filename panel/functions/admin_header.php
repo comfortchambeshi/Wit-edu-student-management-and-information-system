@@ -1,10 +1,10 @@
 <?php
 //appearance
-include($_SERVER['DOCUMENT_ROOT'].'/edearth/classes/mainInfo.php');
+include($_SERVER['DOCUMENT_ROOT'].'/classes/mainInfo.php');
 
 function header1($logged_header)
 {    
-include($_SERVER['DOCUMENT_ROOT'].'/edearth/inc/dbconnect.inc.php');
+include($_SERVER['DOCUMENT_ROOT'].'/inc/dbconnect.inc.php');
 
 
 
