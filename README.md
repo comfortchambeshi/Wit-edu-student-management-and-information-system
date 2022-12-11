@@ -1,6 +1,10 @@
 # Wit-edu-student-management-and-information-system
 Powerful modern student information/management software
 
+SYSTE REQUIREMENTS:
+PHP 7.4
+MySQL
+
 1: Lecturer module
 Private messaging
 Assignments/Homework
