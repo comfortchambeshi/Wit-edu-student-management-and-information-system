@@ -1,0 +1,16 @@
+.glyphicon {
+  margin-right: 5px;
+}
+
+.thumbnail {
+  margin-bottom: 20px;
+  padding: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+.list-group-item-text {
+  margin: 0 0 11px;
+}
+

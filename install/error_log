@@ -1,0 +1,283 @@
+[21-Jun-2020 17:50:00 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:50:00 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:50:38 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:50:38 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:50:38 UTC] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home/mamoce/studentsystem.mamoce.edu.zm/classes/insert_user.php:3
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php(230): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/classes/insert_user.php on line 3
+[21-Jun-2020 17:53:29 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:53:29 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:56:53 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:56:53 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:59:28 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 17:59:28 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 18:08:04 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 18:08:04 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 18:16:48 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 18:16:48 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/administrator_account.php on line 3
+[21-Jun-2020 19:00:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:00:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 145
+[21-Jun-2020 19:00:01 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 298
+[21-Jun-2020 19:00:01 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 299
+[21-Jun-2020 19:02:17 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 298
+[21-Jun-2020 19:02:17 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 299
+[21-Jun-2020 19:03:50 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:03:50 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:03:52 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:03:52 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:03:55 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:03:55 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:05:18 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:05:18 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:05:27 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:05:27 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:05:40 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:05:40 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 350
+[21-Jun-2020 19:05:40 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 351
+[21-Jun-2020 19:06:51 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 347
+[21-Jun-2020 19:06:51 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 348
+[21-Jun-2020 19:07:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:07:01 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 347
+[21-Jun-2020 19:07:01 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 348
+[21-Jun-2020 19:09:28 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 338
+[21-Jun-2020 19:09:28 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 339
+[21-Jun-2020 19:11:00 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 314
+[21-Jun-2020 19:11:00 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 315
+[21-Jun-2020 19:11:20 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:11:20 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 314
+[21-Jun-2020 19:11:20 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 315
+[21-Jun-2020 19:11:49 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 338
+[21-Jun-2020 19:11:49 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 339
+[21-Jun-2020 19:12:09 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:12:09 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 338
+[21-Jun-2020 19:12:09 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 339
+[21-Jun-2020 19:14:10 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 338
+[21-Jun-2020 19:14:10 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 339
+[21-Jun-2020 19:14:21 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:14:21 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 338
+[21-Jun-2020 19:14:21 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 339
+[21-Jun-2020 19:15:49 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 358
+[21-Jun-2020 19:15:49 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:16:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:16:01 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 358
+[21-Jun-2020 19:16:01 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:17:07 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:17:07 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:17:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:17:19 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:17:19 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:19:46 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:19:46 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:20:06 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:20:06 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:20:06 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:21:43 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:21:43 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:21:57 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:21:57 UTC] PHP Warning:  copy(../classes/db1.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:21:57 UTC] PHP Warning:  copy(../inc/db2.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 360
+[21-Jun-2020 19:23:33 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:23:43 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:25:21 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 359
+[21-Jun-2020 19:25:36 UTC] PHP Warning:  chmod(): No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 144
+[21-Jun-2020 19:39:51 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 666
+[21-Jun-2020 19:42:47 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 646
+[21-Jun-2020 19:46:19 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 19:49:14 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 19:52:24 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:06:37 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:11:26 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:12:39 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:14:39 UTC] PHP Warning:  include(../inc/admin_mains.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 54
+[21-Jun-2020 20:14:39 UTC] PHP Warning:  include(): Failed opening '../inc/admin_mains.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 54
+[21-Jun-2020 20:14:39 UTC] PHP Warning:  require_once(classes/datageter.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/inc/auto-loader.php on line 27
+[21-Jun-2020 20:14:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'classes/datageter.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/inc/auto-loader.php on line 27
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(../../inc/auto-loader.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 51
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(): Failed opening '../../inc/auto-loader.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 51
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(../../inc/dbconnect.inc.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 52
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(): Failed opening '../../inc/dbconnect.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 52
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(../../inc/staff_login.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 53
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(): Failed opening '../../inc/staff_login.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 53
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(../../inc/admin_mains.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 54
+[21-Jun-2020 20:14:55 UTC] PHP Warning:  include(): Failed opening '../../inc/admin_mains.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 54
+[21-Jun-2020 20:14:55 UTC] PHP Fatal error:  Uncaught Error: Class 'datageter' not found in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 55
+[21-Jun-2020 20:15:30 UTC] PHP Warning:  require_once(classes/datageter.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/inc/auto-loader.php on line 27
+[21-Jun-2020 20:15:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'classes/datageter.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/inc/auto-loader.php on line 27
+[21-Jun-2020 20:17:00 UTC] PHP Fatal error:  Uncaught Error: Class 'interactor' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php:3
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(52): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 3
+[21-Jun-2020 20:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'interactor' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php:3
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(52): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 3
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 5
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 6
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 7
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 8
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 9
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 10
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 11
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 12
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 13
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 14
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 15
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 16
+[21-Jun-2020 20:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 17
+[21-Jun-2020 20:21:40 UTC] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(54): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 18
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 5
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 6
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 7
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 8
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 9
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 10
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 11
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 12
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 13
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 14
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 15
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 16
+[21-Jun-2020 20:22:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 17
+[21-Jun-2020 20:22:12 UTC] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(54): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 18
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 5
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 6
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 7
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 8
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 9
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 10
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 11
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 12
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 13
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 14
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 15
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 16
+[21-Jun-2020 20:22:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 17
+[21-Jun-2020 20:22:14 UTC] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(54): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 18
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 5
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 6
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 7
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 8
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 9
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 10
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 11
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 12
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 13
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 14
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 15
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 16
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php on line 17
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 5
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 6
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 7
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 8
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 9
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 10
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 11
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 12
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 13
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 14
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 15
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 16
+[21-Jun-2020 20:23:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 17
+[21-Jun-2020 20:23:41 UTC] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(73): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 18
+[21-Jun-2020 20:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(59): include()
+#1 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/inc/admin_mains.php on line 18
+[21-Jun-2020 20:26:41 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:28:03 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:29:04 UTC] PHP Warning:  copy(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/complete_installation.php on line 624
+[21-Jun-2020 20:37:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(163): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:39:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:40:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:40:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:41:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:42:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:43:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ff', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[21-Jun-2020 20:44:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interactor::insertData(), 8 passed in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php on line 6 and exactly 9 expected in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php:49
+Stack trace:
+#0 /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/datageter.php(6): interactor->insertData('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ffd', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...')
+#1 /home/mamoce/studentsystem.mamoce.edu.zm/install/setup.php(165): datageter->createInfo('http://students...', 'MAMOCE', 'info@mamoce.edu...', 'ffd', 'Private Bag 1, ...', 'Malcolm Moffat ...', '+260 969 306777', 'Light | Knowled...', 'Malcolm Moffat ...')
+#2 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/panel/classes/interactor.php on line 49
+[08-Jul-2020 10:55:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 11:24:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 11:24:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 11:24:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 11:24:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 11:34:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:05:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:30:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:34:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:37:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:42:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:42:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:42:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:43:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:43:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:43:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:44:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:45:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:45:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:54:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:55:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Jul-2020 12:56:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0

@@ -1,0 +1,92 @@
+a, .button {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+a:focus, .button:focus, button:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+a:focus, a:hover, .portfolio-cat a:hover, .footer -menu li a:hover {
+  text-decoration: none;
+  color: #1F1F1F;
+}
+
+a, button {
+  color: #1F1F1F;
+  outline: medium none;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  color: #4D4D4D;
+  margin-bottom: 13px;
+  font-family: "Poppins", sans-serif;
+}
+
+.footer {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer .copy-right_text {
+  padding-bottom: 30px;
+  background: #000000;
+}
+
+.footer .copy-right_text .footer_border {
+  padding-bottom: 30px;
+}
+
+.footer .copy-right_text .copy_right {
+  font-size: 16px;
+  color: #919191;
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+@media (max-width: 767px) {
+  .footer .copy-right_text .copy_right {
+    font-size: 14px;
+  }
+}
+
+.footer .copy-right_text .copy_right a {
+  color: #5DB2FF;
+}
+
+a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:focus, a:hover, .portfolio-cat a:hover, .footer -menu li a:hover {
+  text-decoration: none;
+  color: #1F1F1F;
+}
+
+a:focus, .button:focus, button:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+

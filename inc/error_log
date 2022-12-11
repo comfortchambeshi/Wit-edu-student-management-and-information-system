@@ -1,0 +1,72 @@
+[05-May-2020 05:04:32 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[05-May-2020 05:04:32 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[05-May-2020 05:04:32 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[05-May-2020 05:04:32 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[05-May-2020 05:04:32 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[05-May-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[05-May-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[05-May-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[05-May-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[05-May-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[05-May-2020 05:14:15 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[05-May-2020 05:14:15 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[13-May-2020 07:35:54 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[13-May-2020 07:35:54 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[13-May-2020 13:23:05 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[13-May-2020 13:23:05 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[14-May-2020 05:52:27 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[14-May-2020 05:52:27 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[14-May-2020 14:00:48 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[14-May-2020 14:00:48 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[14-May-2020 14:00:48 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[14-May-2020 14:00:48 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[14-May-2020 14:00:48 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[18-May-2020 08:43:28 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[18-May-2020 08:43:28 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[20-May-2020 05:06:59 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[20-May-2020 05:06:59 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[22-May-2020 07:18:46 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[22-May-2020 07:18:46 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[24-May-2020 04:49:24 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[24-May-2020 04:49:24 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[02-Jun-2020 06:41:56 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[02-Jun-2020 06:41:56 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[02-Jun-2020 06:41:56 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[02-Jun-2020 06:41:56 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[02-Jun-2020 06:41:56 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[02-Jun-2020 06:44:21 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[02-Jun-2020 06:44:21 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[06-Jun-2020 16:15:17 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[06-Jun-2020 16:15:17 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[06-Jun-2020 16:15:17 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[06-Jun-2020 16:15:17 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[06-Jun-2020 16:15:17 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[06-Jun-2020 16:47:56 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[06-Jun-2020 16:47:56 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[06-Jun-2020 17:46:51 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[06-Jun-2020 17:46:51 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[06-Jun-2020 17:46:51 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[06-Jun-2020 17:46:51 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[06-Jun-2020 17:46:51 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[06-Jun-2020 17:47:58 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 58
+[06-Jun-2020 17:47:58 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/teacher_login.inc.php on line 59
+[09-Jun-2020 09:47:45 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Jun-2020 09:47:46 America/New_York] PHP Notice:  Undefined variable: site_name in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 371
+[16-Jun-2020 04:25:42 America/New_York] PHP Notice:  Undefined index: id in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 57
+[16-Jun-2020 04:25:42 America/New_York] PHP Notice:  Undefined index: firstname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 58
+[16-Jun-2020 04:25:42 America/New_York] PHP Notice:  Undefined index: lastname in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 59
+[16-Jun-2020 04:25:42 America/New_York] PHP Notice:  Undefined index: username in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 60
+[16-Jun-2020 04:25:42 America/New_York] PHP Notice:  Undefined index: email in /home/xfleagtz/earth.fourskilllevels.com/inc/login.inc.php on line 61
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(mains_unlogged.php): failed to open stream: No such file or directory in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 3
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(mains_unlogged.php): failed to open stream: No such file or directory in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 3
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(): Failed opening 'mains_unlogged.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 3
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(../../classes/mail.php): failed to open stream: No such file or directory in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 4
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(../../classes/mail.php): failed to open stream: No such file or directory in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 4
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  include(): Failed opening '../../classes/mail.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 4
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 9
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 10
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 11
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 12
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 13
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 24
+[14-Jul-2020 03:20:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php:3) in /home4/mukuni/studentsystem.mukuni.edu.zm/inc/reg.inc.php on line 34

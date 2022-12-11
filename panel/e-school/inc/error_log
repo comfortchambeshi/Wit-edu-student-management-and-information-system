@@ -1,0 +1,2 @@
+[13-May-2020 08:48:05 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/xfleagtz/earth.fourskilllevels.com/panel/e-school/inc/start_class.inc.php on line 11
+[13-May-2020 13:40:48 America/New_York] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/xfleagtz/earth.fourskilllevels.com/panel/e-school/inc/start_class.inc.php on line 20

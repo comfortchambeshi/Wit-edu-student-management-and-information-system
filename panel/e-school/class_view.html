@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>e-school</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/Highlight-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+</head>
+
+<body>
+    <div class="card">
+        <div class="card-header">
+            <ul class="nav nav-tabs card-header-tabs">
+                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link active" href="lessons.html">Lessons</a></li>
+                <li class="nav-item"><a class="nav-link" href="class_view.html">Modules</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Timetable</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+            </ul>
+        </div>
+        <div class="card-body">
+            <h4 class="text-center text-light bg-primary">ICT CLASS</h4>
+            <div class="container"><video class="bg-primary border rounded-0 border-primary shadow-lg" controls="" style="max-width: 100%;width: 100%;" preload="auto" height="320" autoplay="" poster="E:\Bollyhood Action/2.0 2018 Full Movie.MP4"><source src="E:\Bollyhood Action/2.0 2018 Full Movie.MP4" type="video/mp4"></video>
+                <h4
+                    class="text-center text-primary border rounded-0 shadow">Questions</h4>
+                    <div  class="card">
+                        
+                        
+                        
+                    </div>
+
+                    <script>
+$(document).ready(function(){
+    id = window.location.search.substr(10);
+    obj = { "limit":id };
+dbParam = JSON.stringify(obj);
+setInterval(function(){
+$("#data").load('data.php?class_id='+dbParam)
+}, 1000);
+});
+</script>
+                    <div class="form-group">
+                        <form class="border rounded-0 shadow-lg">
+                            <p class="text-light bg-primary border rounded-0 shadow-lg">Ask a question</p><textarea class="form-control" style="margin-bottom: 6px;"></textarea><button class="btn btn-primary" type="button">ASK</button></form>
+                    </div>
+            </div>
+        </div>
+    </div>
+   
+</body>
+
+</html>

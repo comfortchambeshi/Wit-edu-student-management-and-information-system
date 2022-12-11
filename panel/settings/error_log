@@ -1,0 +1,16 @@
+[29-Apr-2020 06:19:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php:13
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php(13): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/interactor.php(51): db->connect()
+#2 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/datageter.php(6): interactor->insertData('UEARTH', 'youremail@youre...', '0977787878', 'P.0 BOX 850087', 'Simplifying the...', '888686786786', 'Education is th...', 'University Of E...')
+#3 /home/xfleagtz/earth.fourskilllevels.com/panel/settings/main.php(126): datageter->createInfo('UEARTH', 'youremail@youre...', '0977787878', 'P.0 BOX 850087', 'Simplifying the...', '888686786786', 'Education is th...', 'University Of E...')
+#4 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php on line 13
+[29-Apr-2020 06:22:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php:13
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php(13): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/interactor.php(51): db->connect()
+#2 /home/xfleagtz/earth.fourskilllevels.com/panel/classes/datageter.php(6): interactor->insertData('UEARTH', 'youremail@youre...', '0977787878', 'P.0 BOX 850087', 'Simplifying the...', '888686786786', 'Education is th...', 'University Of E...')
+#3 /home/xfleagtz/earth.fourskilllevels.com/panel/settings/main.php(126): datageter->createInfo('UEARTH', 'youremail@youre...', '0977787878', 'P.0 BOX 850087', 'Simplifying the...', '888686786786', 'Education is th...', 'University Of E...')
+#4 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/panel/classes/db.php on line 13

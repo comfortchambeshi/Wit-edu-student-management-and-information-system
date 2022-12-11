@@ -1,0 +1,19 @@
+.typeahead, .tt-query, .tt-hint {
+  padding: 8px 12px;
+  border: 2px solid #ccc;
+  outline: none;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+label {
+  display: block;
+  padding: 0.25rem;
+}
+
+body > div, h1 {
+  padding: 1rem;
+}
+

@@ -1,0 +1,388 @@
+[29-Apr-2020 06:39:47 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 06:39:47 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 06:39:47 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 06:39:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php:5
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php(139): Mail::sendMail('Lecturer login ...', '\r\n  <!DOCTYPE h...', 'comfortchambesh...')
+#1 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 5
+[29-Apr-2020 06:59:11 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 06:59:11 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 06:59:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php:5
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php(143): Mail::sendMail('Librarian login...', '\r\n  <!DOCTYPE h...', 'comfortchambesh...')
+#1 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 5
+[29-Apr-2020 07:03:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 07:03:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/PHPMailer/PHPMailerAutoload.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 2
+[29-Apr-2020 07:03:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php:5
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/panel/inc/reg.inc.php(199): Mail::sendMail('Student login d...', '\r\n<!DOCTYPE htm...', 'comfortchambesh...')
+#1 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/classes/mail.php on line 5
+[29-Apr-2020 07:06:27 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:16:35 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:16:35 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:27:37 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:27:37 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:27:37 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 3
+[29-Apr-2020 07:27:37 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 3
+[29-Apr-2020 07:27:37 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[29-Apr-2020 07:27:37 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[29-Apr-2020 07:41:42 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:41:42 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:41:42 America/New_York] PHP Fatal error:  Cannot declare class admin_login, because the name is already in use in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/staff_login.php on line 4
+[29-Apr-2020 07:50:16 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:50:16 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:51:47 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:51:47 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[29-Apr-2020 07:51:47 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[29-Apr-2020 07:55:48 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Apr-2020 07:55:48 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[29-Apr-2020 07:55:48 America/New_York] PHP Fatal error:  Cannot declare class admin_login, because the name is already in use in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/staff_login.php on line 4
+[03-May-2020 05:32:15 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 05:32:15 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 116
+[03-May-2020 05:32:15 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 174
+[03-May-2020 05:47:44 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 05:47:44 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 131
+[03-May-2020 05:47:44 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 189
+[03-May-2020 05:56:20 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 06:07:14 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 06:07:14 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:07:14 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:07:14 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 112
+[03-May-2020 06:17:24 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 06:19:32 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 06:19:32 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:19:32 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:19:32 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 112
+[03-May-2020 06:20:40 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:20:40 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:20:40 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 112
+[03-May-2020 06:25:47 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[03-May-2020 06:25:47 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:25:47 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:25:47 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 112
+[03-May-2020 06:27:06 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:27:06 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 4
+[03-May-2020 06:27:06 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 112
+[05-May-2020 04:03:28 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:04:08 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:04:08 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:09:45 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:09:45 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:09:45 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:13:48 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:13:48 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:13:48 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:14:42 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:14:42 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:16:09 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 139
+[05-May-2020 04:16:09 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:16:09 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:20:22 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:20:22 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 139
+[05-May-2020 04:20:22 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:20:22 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:21:14 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 139
+[05-May-2020 04:21:14 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:21:14 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:23:30 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:23:30 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 143
+[05-May-2020 04:23:30 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:23:30 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:26:12 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:26:12 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 145
+[05-May-2020 04:26:12 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:26:12 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:27:35 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 145
+[05-May-2020 04:27:35 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:27:35 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:28:50 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 145
+[05-May-2020 04:28:50 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:28:50 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:29:52 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 145
+[05-May-2020 04:29:52 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:29:52 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:33:42 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:33:42 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 185
+[05-May-2020 04:33:42 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:33:42 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:36:41 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:36:41 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 185
+[05-May-2020 04:36:41 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:36:41 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:39:03 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:39:03 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:41:09 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:41:09 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:41:09 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:43:33 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 04:43:33 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:43:33 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:45:00 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:45:00 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:47:19 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 04:47:19 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 04:47:23 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_reg.inc.php on line 192
+[05-May-2020 04:48:42 America/New_York] PHP Warning:  Use of undefined constant condition - assumed 'condition' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 12
+[05-May-2020 04:48:42 America/New_York] PHP Warning:  Use of undefined constant parents_login_tokens - assumed 'parents_login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 14
+[05-May-2020 04:57:01 America/New_York] PHP Warning:  Use of undefined constant condition - assumed 'condition' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 12
+[05-May-2020 04:57:01 America/New_York] PHP Warning:  Use of undefined constant parents_login_tokens - assumed 'parents_login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 14
+[05-May-2020 05:01:16 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 05:01:16 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/registerMailTemp.php on line 111
+[05-May-2020 05:10:25 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[05-May-2020 05:13:23 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 05:13:23 America/New_York] PHP Notice:  Undefined index: password2 in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/teacher_reg.inc.php on line 27
+[05-May-2020 05:13:23 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 05:13:23 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 05:30:36 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 05:30:36 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 05:30:36 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 05:35:30 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 05:35:30 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 05:35:30 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[05-May-2020 05:37:41 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[05-May-2020 05:37:41 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 114
+[05-May-2020 05:37:41 America/New_York] PHP Notice:  Undefined variable: site_fULLname in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 172
+[14-May-2020 14:09:35 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[02-Jun-2020 06:44:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_login_function.php on line 20
+[02-Jun-2020 06:44:03 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/login_function.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 9
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/login_function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 9
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/teacher_login_function.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 10
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/teacher_login_function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 10
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/dbconnect.inc.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 11
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/dbconnect.inc.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 11
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/staff_login.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 12
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/staff_login.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 12
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/lib_login_function.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 13
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/lib_login_function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 13
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/parent_login_function.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 14
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/parent_login_function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 14
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/acc_login_function.php): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 19
+[06-Jun-2020 16:29:19 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/malcom/inc/acc_login_function.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 19
+[06-Jun-2020 16:29:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 22
+[06-Jun-2020 16:30:00 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 99
+[06-Jun-2020 16:30:11 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 99
+[06-Jun-2020 16:30:28 America/New_York] PHP Notice:  Undefined variable: user_id in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/message_inc.php on line 99
+[06-Jun-2020 16:47:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_login_function.php on line 20
+[06-Jun-2020 16:47:31 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[06-Jun-2020 16:48:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/xfleagtz/earth.fourskilllevels.com/inc/login_function.php on line 21
+[06-Jun-2020 17:47:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/parent_login_function.php on line 20
+[06-Jun-2020 17:47:44 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[16-Jun-2020 04:27:29 America/New_York] PHP Warning:  Use of undefined constant login_tokens - assumed 'login_tokens' (this will throw an Error in a future version of PHP) in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/sout.inc.php on line 11
+[14-Jul-2020 03:55:26 America/Chicago] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 25
+[14-Jul-2020 03:56:23 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 25
+[14-Jul-2020 04:52:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:14
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(67): info->fetch('')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 14
+[14-Jul-2020 04:53:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:14
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(67): info->fetch('')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 14
+[14-Jul-2020 05:09:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:36
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(75): info->fetch('7')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:09:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:36
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(75): info->fetch('7')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:12:19 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 32
+[14-Jul-2020 05:12:22 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 32
+[14-Jul-2020 05:13:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:36
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(75): info->fetch('7')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:23:26 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:27:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'd' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/db.php on line 8
+[14-Jul-2020 05:38:56 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:38:59 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:39:01 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 05:39:26 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 42
+[14-Jul-2020 05:41:13 America/Chicago] PHP Warning:  implode() expects at most 2 parameters, 3 given in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 36
+[14-Jul-2020 07:39:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:14
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(76): info->fetch('')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 14
+[14-Jul-2020 07:41:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:37
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(76): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 37
+[14-Jul-2020 07:42:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function var_dum() in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:22
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(76): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 22
+[14-Jul-2020 07:58:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:37
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(76): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 37
+[14-Jul-2020 07:59:36 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 34
+[14-Jul-2020 07:59:38 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 34
+[14-Jul-2020 07:59:46 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 34
+[14-Jul-2020 08:40:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[14-Jul-2020 08:43:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$StudyYears' (T_VARIABLE) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 54
+[14-Jul-2020 08:44:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[14-Jul-2020 08:44:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[14-Jul-2020 08:44:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[14-Jul-2020 08:47:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[14-Jul-2020 08:47:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:57
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(96): info->fetch('8')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 57
+[15-Jul-2020 04:39:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/p_a_r.inc.php:60
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/p_a_r.inc.php on line 60
+[19-Jul-2020 04:44:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 04:54:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 05:21:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 05:32:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 05:42:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 05:59:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[19-Jul-2020 13:00:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[20-Jul-2020 04:28:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php:38) in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 40
+[21-Jul-2020 05:47:36 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function mailTemplate::generalTemplate(), 3 passed in /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php on line 37 and exactly 4 expected in /home4/mukuni/studentsystem.mukuni.edu.zm/functions/emailtemplates.php:405
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/classes/insert_user.php(37): mailTemplate->generalTemplate(NULL, NULL, 'Register:123456...')
+#1 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/reg.inc.php(174): insertUser->insertStudent('Comfort', 'Chambeshi', '$2y$10$ZveM5GZg...', '2020/07/21', '1', 'comfortchambesh...', 'Male', '8c368c8ba484fed...', '1', '12345678', '0222-02-22', '', '', 'Online', '12357678', 'SSS', 'no', 'NIL', 'one', '12345678', 'Angola', '12345678', 'Medical Conditi...', '-')
+#2 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/functions/emailtemplates.php on line 405
+[26-Jul-2020 04:42:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:88) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 98
+[26-Jul-2020 04:43:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:88) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 98
+[26-Jul-2020 04:44:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$info' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 93
+[27-Jul-2020 07:59:36 America/Chicago] PHP Fatal error:  Class 'db' not found in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 102
+[27-Jul-2020 08:34:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$student_id' (T_VARIABLE) in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 115
+[27-Jul-2020 08:39:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:112
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(137): single_inv->insertPayment('12345678')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 112
+[27-Jul-2020 08:45:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::query() in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:112
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(139): single_inv->insertPayment('12345678')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 112
+[27-Jul-2020 08:45:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::query() in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php:112
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php(139): single_inv->insertPayment('12345678')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 112
+[27-Jul-2020 08:54:33 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 112
+[27-Jul-2020 09:01:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/get_insert.php on line 114
+[11-Aug-2020 14:07:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:09:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:10:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:11:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:12:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:13:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:14:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:15:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:15:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:20:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:21:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:22:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function studentBy_email_orExamid() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:23:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'main' not found in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:115
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 115
+[11-Aug-2020 14:50:41 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 7
+[11-Aug-2020 14:50:41 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 8
+[11-Aug-2020 14:50:41 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 9
+[11-Aug-2020 14:51:06 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 7
+[11-Aug-2020 14:51:06 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 8
+[11-Aug-2020 14:51:06 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 9
+[11-Aug-2020 14:51:51 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 6
+[11-Aug-2020 14:51:51 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 7
+[11-Aug-2020 14:51:51 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 8
+[11-Aug-2020 14:51:51 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 9
+[11-Aug-2020 15:01:59 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 7
+[11-Aug-2020 15:01:59 America/Chicago] PHP Warning:  Illegal string offset 'size' in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 8
+[11-Aug-2020 15:01:59 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 9
+[11-Aug-2020 15:02:42 America/Chicago] PHP Warning:  Illegal offset type in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 6
+[11-Aug-2020 15:03:36 America/Chicago] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 37
+[11-Aug-2020 15:04:19 America/Chicago] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/main.php on line 37
+[11-Aug-2020 15:17:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function InsertPayments() on null in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php:131
+Stack trace:
+#0 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/submit_payments.php on line 131
+[11-Aug-2020 16:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/export.php:24
+Stack trace:
+#0 /home4/mukuni/studentsystem.mukuni.edu.zm/panel/inc/download.php(36): export->exportMysqlToCsv('teachers1597181...', 'teachers')
+#1 {main}
+  thrown in /home4/mukuni/studentsystem.mukuni.edu.zm/panel/classes/export.php on line 24

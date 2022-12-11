@@ -1,0 +1,7 @@
+[29-Apr-2020 07:31:11 America/New_York] PHP Warning:  include(/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp): failed to open stream: No such file or directory in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 3
+[29-Apr-2020 07:31:11 America/New_York] PHP Warning:  include(): Failed opening '/home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.phpp' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 3
+[29-Apr-2020 07:31:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'admin_login' not found in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.php:18
+Stack trace:
+#0 /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php(3): include()
+#1 {main}
+  thrown in /home/xfleagtz/earth.fourskilllevels.com/panel/inc/admin_mains.php on line 18

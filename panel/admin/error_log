@@ -1,0 +1,3 @@
+[09-Jun-2020 09:49:54 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Jun-2020 09:51:36 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/xfleagtz/earth.fourskilllevels.com/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Jun-2020 09:51:36 America/New_York] PHP Notice:  Undefined variable: site_name in /home/xfleagtz/earth.fourskilllevels.com/functions/emailtemplates.php on line 371

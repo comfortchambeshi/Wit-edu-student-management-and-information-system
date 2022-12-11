@@ -1,0 +1,19 @@
+[21-Jun-2020 19:49:31 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 4
+[21-Jun-2020 19:49:31 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 4
+[21-Jun-2020 19:49:31 UTC] PHP Warning:  include(../classes/insert_user.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 5
+[21-Jun-2020 19:49:31 UTC] PHP Warning:  include(): Failed opening '../classes/insert_user.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 5
+[21-Jun-2020 19:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'insertUser' not found in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 15
+[21-Jun-2020 19:51:07 UTC] PHP Warning:  include(../classes/db.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 4
+[21-Jun-2020 19:51:07 UTC] PHP Warning:  include(): Failed opening '../classes/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 4
+[21-Jun-2020 19:51:07 UTC] PHP Warning:  include(../classes/insert_user.php): failed to open stream: No such file or directory in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 5
+[21-Jun-2020 19:51:07 UTC] PHP Warning:  include(): Failed opening '../classes/insert_user.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 5
+[21-Jun-2020 19:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'insertUser' not found in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 15
+[21-Jun-2020 19:54:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mamoce/studentsystem.mamoce.edu.zm/classes/insert_user.php:64) in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 17
+[21-Jun-2020 19:54:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mamoce/studentsystem.mamoce.edu.zm/classes/insert_user.php:64) in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 16
+[21-Jun-2020 19:54:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mamoce/studentsystem.mamoce.edu.zm/classes/insert_user.php:64) in /home/mamoce/studentsystem.mamoce.edu.zm/install/include/insert.php on line 16
