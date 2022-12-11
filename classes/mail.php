@@ -1,7 +1,7 @@
 
 <?php
 
-include_once $_SERVER["DOCUMENT_ROOT"]."/edearth/PHPMailer/PHPMailerAutoload.php";
+include_once $_SERVER["DOCUMENT_ROOT"]."/PHPMailer/PHPMailerAutoload.php";
 class Mail {
     public static $security = "ssl";
     public static $host = "mail.mukuni.edu.zm";
