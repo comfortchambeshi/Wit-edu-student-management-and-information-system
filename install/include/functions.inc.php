@@ -22,12 +22,9 @@ function apphp_db_install($sql_dump_file) {
 	$sql_dump = str_ireplace('<DB_PREFIX>', $database_prefix, $sql_dump);
 
     // disabling magic quotes at runtime
-    if(get_magic_quotes_runtime()){
-        function stripslashes_runtime(&$value){
-            $value = stripslashes($value);	
-        }
-        array_walk_recursive($sql_dump, 'stripslashes_runtime');
-    }
+   if (ini_get('magic_quotes_runtime')) {
+    // magic quotes is enabled
+   }
 
 	// add ';' at the end of file to catch last sql query
 	if(substr($sql_dump[count($sql_dump)-1], -1) != ';') $sql_dump[count($sql_dump)-1] .= ';';
