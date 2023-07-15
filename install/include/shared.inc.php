@@ -25,13 +25,21 @@ $_SESSION['token'] = md5(uniqid(rand(), true));
 
 
 // *** disabling magic quotes at runtime
-if(get_magic_quotes_gpc()){
-    function stripslashes_gpc(&$value) {
-		$value = stripslashes($value);	
-	}
-    array_walk_recursive($_GET, 'stripslashes_gpc');
-    array_walk_recursive($_POST, 'stripslashes_gpc');
-    array_walk_recursive($_COOKIE, 'stripslashes_gpc');
-    if(is_array($_REQUEST)) array_walk_recursive($_REQUEST, 'stripslashes_gpc');
+function strip_slashes_recursive($value) {
+    if (is_array($value)) {
+        foreach ($value as $key => $val) {
+            $value[$key] = strip_slashes_recursive($val);
+        }
+    } else {
+        $value = str_replace('\\', '', $value);
+    }
+
+    return $value;
 }
+
+$GET = strip_slashes_recursive($_GET);
+$POST = strip_slashes_recursive($_POST);
+$COOKIE = strip_slashes_recursive($_COOKIE);
+$REQUEST = strip_slashes_recursive($_REQUEST);
+
 
