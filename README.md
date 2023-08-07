@@ -1,4 +1,4 @@
-# Wit-edu-student-management-and-information-system
+## Wit-edu-student-management-and-information-system
 Powerful modern student information/management software
 
 SYSTE REQUIREMENTS:
